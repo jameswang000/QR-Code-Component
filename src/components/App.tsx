@@ -1,5 +1,7 @@
+import QR from "./QR.tsx";
+
 function App() {
-  return <></>;
+  return <QR />;
 }
 
 export default App;
